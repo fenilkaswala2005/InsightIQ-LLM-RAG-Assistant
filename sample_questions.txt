@@ -1,0 +1,6 @@
+Try these after uploading a PDF:
+1. Summarize this document in five bullet points.
+2. What problem does the document try to solve?
+3. List the key findings with page references.
+4. What limitations or future work are discussed?
+5. Compare the two approaches described in the document.
